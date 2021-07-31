@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhargav Valani</h1>
-<h3 align="center">Currently I am Leaning Web Development. Doing Freelancing Projects</h3>
+<h3 align="center">Currently I am Leaning Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav-2808&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav-2808" /> </p>
 
